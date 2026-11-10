@@ -1,0 +1,6 @@
+{
+  "name": "VoxelCraft 3D",
+  "description": "Full WebGL voxel sandbox game with procedural infinite terrain, house building, dynamic day-night cycle, custom skins, and interactive bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
